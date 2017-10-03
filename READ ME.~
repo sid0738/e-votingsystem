@@ -1,0 +1,36 @@
+Read this first:
+*******************
+
+Administrator:
+************* 
+username:admin
+password:admin
+               
+Student:
+******** 
+username: ifm
+password: ifm
+
+
+***********************************************************************************************      
+1.WHEN INSTALLING REMEMBER TO CHANGE FILE connection.php ON THE DATABASE USERNAME AND PASSWORD FIELDS
+WHICH IS NEED TO BE AS THOSE SET ON YOUR MYSQL DATABASE.
+
+2. REMEMBER TO IMPORT DATABASE FILE CALLED poll.sql ON YOUR MYSQL DATABASE IN WHICH I SUGGEST YOU USE
+PHPMYADMIN FOR ADMINISTERING MYSQL AS PROVIDES A GRAPHICAL USERINTERFACES FOR ALL THOSE JOBS.
+
+3. IF THIS PROJECT HELPED YOU, YOU COULD LEAVE A MESSAGE AND KEEP APPRECIATING THE OPEN SOURCE SOCIETY.
+PERSONAL EMAIL: mbamila87tz@gmail.com
+OFFICE EMAIL: haruni@habari.co.tz
+MOBILE: +255712115007
+
+********
+NOTE: 
+*******
+I have done this project helping fellow students who were having final project at their college when i was also a third year student at Institute Of Finance Management-IFM. This is very simple and easy to use project which need you just to import the database(poll.sql) and php files on your web server then ready to go.
+
+The project is an open source licenced, you can edit the codes, modify and distribute as you wish. Its a free project to show my contribution to the open source society.
+
+
+********************************************* Thank you. ***************************************************************
+************************************************************************************************************************

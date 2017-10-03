@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background-color:#CCCCCC;
+font-family:Arial, Helvetica, sans-serif;
+-moz-border-radius:30px;
+}
+
+#head{
+position:absolute;
+top:0px;
+width:100%;
+height:100px;
+margin-left:0px;
+size:15px;
+color:#993300;
+}
+
+#head h4,td{
+text-shadow:1px 1px 1px #000;
+}
+
+#leftnavigation{
+position:absolute;
+top:100px;
+background:#10102E;
+width:100%;
+height:28px;
+margin-left:0px;
+size:14px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+}
+
+#leftnavigation a {
+font-family:Geneva, Arial, Helvetica, sans-serif;
+text-decoration:none;
+color:#FFFFFF;
+}
+
+#cover {
+    position: absolute;
+    top: 150px;
+    background: #FFFFFF;
+    width: 100%;
+    height: 90%;
+    margin-left: 0px;
+    size: 14px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+}
+#content{
+position:auto;
+top:60px;
+background:#2E2E2E;
+width:100%;
+margin-left:0px;
+margin-right:0px;
+font-size:14px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-khtml-border-radius: 10px;
+ border-radius: 10px;
+}
+
+#content h3{
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+}
+#content a {
+font-family:Geneva, Arial, Helvetica, sans-serif;
+text-decoration:none;
+color:#1e90ff;
+font-size:14px;
+}
+
+#rightnavigation{
+position:absolute;
+top:30px;
+background:#003300;
+width:18%;
+height:40%;
+margin-left:80%;
+size:14px;
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+-moz-border-radius:30px;
+}
+
+#footer{
+position:auto;
+top:98%;
+background:#000000;
+width:80%;
+height:5px;
+margin-left:70px;
+size:10px;
+font-family:Arial, Helvetica, sans-serif;
+color:#000000;
+-moz-border-radius:30px;
+}
+#login{
+    text-align: center;
+    width: auto;
+	margin-left:0px;
+    margin: auto;
+    left:0;
+    padding-bottom: 0;
+    font-size:13;
+    size:20px;
+}
+.login{
+    vertical-align:middle;
+    margin:auto;
+}
+.login input[type=text]{
+    margin-left: 0px;
+    margin-bottom: 5px;
+}
+.login input[type=password]{
+    margin-left: 0px;
+}
+#login input[type=submit]{
+    margin-left: 200px;
+    font-size: 0.8em;
+
+}
+
+
